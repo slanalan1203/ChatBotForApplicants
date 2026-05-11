@@ -1,0 +1,869 @@
+{
+  "summary": {
+    "hit@1": 0.4666666666666667,
+    "hit@3": 0.6666666666666666,
+    "hit@5": 1.0,
+    "hit@10": 1.0,
+    "recall@1": 0.3958333333333333,
+    "recall@3": 0.6291666666666667,
+    "recall@5": 1.0,
+    "recall@10": 1.0,
+    "mrr": 0.6311111111111111,
+    "n_scored": 60,
+    "n_skipped_no_relevant": 25,
+    "label": "exp3_nomic"
+  },
+  "per_q": [
+    {
+      "qid": "new_43",
+      "category": "programs",
+      "retrieved": [
+        "faq_53",
+        "faq_0",
+        "faq_3",
+        "faq_101",
+        "faq_35"
+      ],
+      "relevant": [
+        "faq_0"
+      ]
+    },
+    {
+      "qid": "new_63",
+      "category": "exams",
+      "retrieved": [
+        "faq_103",
+        "faq_75",
+        "faq_105",
+        "faq_73",
+        "faq_23"
+      ],
+      "relevant": [
+        "faq_103",
+        "faq_73"
+      ]
+    },
+    {
+      "qid": "new_37",
+      "category": "programs",
+      "retrieved": [
+        "faq_35",
+        "faq_86",
+        "faq_2",
+        "faq_95",
+        "faq_3"
+      ],
+      "relevant": [
+        "faq_3"
+      ]
+    },
+    {
+      "qid": "kt1_02",
+      "category": "exams",
+      "retrieved": [
+        "faq_53",
+        "faq_25",
+        "faq_44",
+        "faq_86",
+        "faq_31"
+      ],
+      "relevant": [
+        "faq_44"
+      ]
+    },
+    {
+      "qid": "new_75",
+      "category": "definition",
+      "retrieved": [
+        "vocab_13",
+        "faq_68",
+        "rules_main_c46",
+        "faq_39",
+        "faq_20"
+      ],
+      "relevant": [
+        "vocab_13"
+      ]
+    },
+    {
+      "qid": "new_51",
+      "category": "cost",
+      "retrieved": [
+        "faq_42",
+        "faq_77",
+        "faq_95",
+        "faq_41",
+        "faq_57"
+      ],
+      "relevant": [
+        "faq_41"
+      ]
+    },
+    {
+      "qid": "new_48",
+      "category": "scholarship",
+      "retrieved": [
+        "faq_31",
+        "faq_2",
+        "faq_37",
+        "faq_35",
+        "faq_9"
+      ],
+      "relevant": [
+        "faq_35"
+      ]
+    },
+    {
+      "qid": "kt1_05",
+      "category": "general",
+      "retrieved": [
+        "faq_31",
+        "faq_37",
+        "faq_9",
+        "faq_35",
+        "Информирование о приеме – 2026_c6"
+      ],
+      "relevant": [
+        "faq_31"
+      ]
+    },
+    {
+      "qid": "kt1_17",
+      "category": "general",
+      "retrieved": [
+        "faq_58",
+        "faq_54",
+        "faq_34",
+        "vocab_5",
+        "faq_33"
+      ],
+      "relevant": [
+        "faq_34"
+      ]
+    },
+    {
+      "qid": "new_06",
+      "category": "dates",
+      "retrieved": [
+        "faq_54",
+        "vocab_12",
+        "faq_58",
+        "faq_55",
+        "vocab_4"
+      ],
+      "relevant": [
+        "faq_55"
+      ]
+    },
+    {
+      "qid": "new_20",
+      "category": "documents",
+      "retrieved": [
+        "faq_28",
+        "faq_40",
+        "faq_52",
+        "faq_37",
+        "faq_26"
+      ],
+      "relevant": [
+        "faq_26"
+      ]
+    },
+    {
+      "qid": "new_25",
+      "category": "documents",
+      "retrieved": [
+        "faq_64",
+        "faq_62",
+        "faq_89",
+        "faq_22",
+        "faq_33"
+      ],
+      "relevant": [
+        "faq_22"
+      ]
+    },
+    {
+      "qid": "new_78",
+      "category": "definition",
+      "retrieved": [
+        "faq_20",
+        "faq_84",
+        "faq_80",
+        "faq_28",
+        "faq_39"
+      ],
+      "relevant": [
+        "faq_84"
+      ]
+    },
+    {
+      "qid": "kt1_18",
+      "category": "out_of_scope",
+      "retrieved": [
+        "faq_39",
+        "faq_44",
+        "faq_72",
+        "faq_25",
+        "faq_83"
+      ],
+      "relevant": [
+        "faq_25"
+      ]
+    },
+    {
+      "qid": "new_89",
+      "category": "exams",
+      "retrieved": [
+        "faq_21",
+        "faq_49",
+        "faq_52",
+        "faq_2",
+        "rules_main_c69"
+      ],
+      "relevant": [
+        "faq_2"
+      ]
+    },
+    {
+      "qid": "new_11",
+      "category": "dates",
+      "retrieved": [
+        "faq_104",
+        "faq_59",
+        "faq_79",
+        "faq_85",
+        "faq_15"
+      ],
+      "relevant": [
+        "faq_85"
+      ]
+    },
+    {
+      "qid": "new_58",
+      "category": "dormitory",
+      "retrieved": [
+        "faq_94",
+        "faq_12",
+        "faq_64",
+        "faq_49",
+        "faq_11"
+      ],
+      "relevant": [
+        "faq_12"
+      ]
+    },
+    {
+      "qid": "new_35",
+      "category": "programs",
+      "retrieved": [
+        "faq_3",
+        "faq_73",
+        "faq_95",
+        "faq_44",
+        "faq_51"
+      ],
+      "relevant": [
+        "faq_3"
+      ]
+    },
+    {
+      "qid": "new_66",
+      "category": "exams",
+      "retrieved": [
+        "faq_53",
+        "faq_9",
+        "faq_41",
+        "faq_47",
+        "faq_98"
+      ],
+      "relevant": [
+        "faq_41"
+      ]
+    },
+    {
+      "qid": "kt1_24",
+      "category": "general",
+      "retrieved": [
+        "vocab_0",
+        "faq_48",
+        "faq_62",
+        "faq_32",
+        "faq_89"
+      ],
+      "relevant": [
+        "vocab_0"
+      ]
+    },
+    {
+      "qid": "new_62",
+      "category": "exams",
+      "retrieved": [
+        "faq_3",
+        "faq_53",
+        "faq_25",
+        "faq_98",
+        "faq_73"
+      ],
+      "relevant": [
+        "faq_3",
+        "faq_98"
+      ]
+    },
+    {
+      "qid": "new_45",
+      "category": "cost",
+      "retrieved": [
+        "faq_86",
+        "vocab_14",
+        "faq_11",
+        "vocab_12",
+        "faq_25"
+      ],
+      "relevant": [
+        "faq_86",
+        "vocab_14"
+      ]
+    },
+    {
+      "qid": "new_36",
+      "category": "programs",
+      "retrieved": [
+        "faq_3",
+        "faq_44",
+        "faq_95",
+        "faq_2",
+        "faq_49"
+      ],
+      "relevant": [
+        "faq_3"
+      ]
+    },
+    {
+      "qid": "new_32",
+      "category": "programs",
+      "retrieved": [
+        "vocab_11",
+        "faq_7",
+        "vocab_10",
+        "faq_105",
+        "faq_47"
+      ],
+      "relevant": [
+        "faq_7"
+      ]
+    },
+    {
+      "qid": "new_61",
+      "category": "exams",
+      "retrieved": [
+        "faq_2",
+        "faq_95",
+        "faq_21",
+        "faq_49",
+        "faq_3"
+      ],
+      "relevant": [
+        "faq_2"
+      ]
+    },
+    {
+      "qid": "new_85",
+      "category": "documents",
+      "retrieved": [
+        "faq_4",
+        "faq_48",
+        "faq_49",
+        "faq_58",
+        "faq_20"
+      ],
+      "relevant": [
+        "faq_4"
+      ]
+    },
+    {
+      "qid": "new_83",
+      "category": "general",
+      "retrieved": [
+        "faq_47",
+        "faq_38",
+        "faq_21",
+        "faq_49",
+        "faq_46"
+      ],
+      "relevant": [
+        "faq_47",
+        "faq_46"
+      ]
+    },
+    {
+      "qid": "new_24",
+      "category": "documents",
+      "retrieved": [
+        "faq_64",
+        "faq_49",
+        "faq_68",
+        "faq_43",
+        "faq_46"
+      ],
+      "relevant": [
+        "faq_43",
+        "faq_46"
+      ]
+    },
+    {
+      "qid": "new_73",
+      "category": "definition",
+      "retrieved": [
+        "vocab_3",
+        "faq_74",
+        "faq_29",
+        "faq_28",
+        "faq_90"
+      ],
+      "relevant": [
+        "vocab_3"
+      ]
+    },
+    {
+      "qid": "new_46",
+      "category": "cost",
+      "retrieved": [
+        "faq_86",
+        "faq_95",
+        "vocab_14",
+        "faq_53",
+        "faq_6"
+      ],
+      "relevant": [
+        "faq_86",
+        "vocab_14"
+      ]
+    },
+    {
+      "qid": "kt1_16",
+      "category": "dates",
+      "retrieved": [
+        "faq_65",
+        "faq_76",
+        "rules_main_c48",
+        "faq_37",
+        "faq_57"
+      ],
+      "relevant": [
+        "faq_65"
+      ]
+    },
+    {
+      "qid": "kt1_30",
+      "category": "exams",
+      "retrieved": [
+        "faq_21",
+        "faq_2",
+        "faq_44",
+        "faq_98",
+        "faq_54"
+      ],
+      "relevant": [
+        "faq_98"
+      ]
+    },
+    {
+      "qid": "new_55",
+      "category": "dormitory",
+      "retrieved": [
+        "faq_35",
+        "faq_9",
+        "faq_12",
+        "appeal_regulation_c3",
+        "paid_contract_rules_c0"
+      ],
+      "relevant": [
+        "faq_12"
+      ]
+    },
+    {
+      "qid": "new_15",
+      "category": "dates",
+      "retrieved": [
+        "faq_2",
+        "faq_4",
+        "appeal_regulation_c5",
+        "vocab_13",
+        "faq_68"
+      ],
+      "relevant": [
+        "faq_2"
+      ]
+    },
+    {
+      "qid": "kt1_14",
+      "category": "general",
+      "retrieved": [
+        "faq_50",
+        "faq_33",
+        "faq_7",
+        "faq_64",
+        "faq_24"
+      ],
+      "relevant": [
+        "faq_50"
+      ]
+    },
+    {
+      "qid": "new_12",
+      "category": "dates",
+      "retrieved": [
+        "faq_95",
+        "Стоимость обучения – 2026_c0",
+        "vocab_14",
+        "Целевое обучение в НИУ ВШЭ 2026: поступление на бюджет с гарантией трудоустройства_c2",
+        "faq_28"
+      ],
+      "relevant": [
+        "Целевое обучение в НИУ ВШЭ 2026: поступление на бюджет с гарантией трудоустройства_c2"
+      ]
+    },
+    {
+      "qid": "kt1_03",
+      "category": "general",
+      "retrieved": [
+        "faq_0",
+        "faq_67",
+        "faq_71",
+        "График поступления – 2026_c0",
+        "faq_7"
+      ],
+      "relevant": [
+        "faq_0",
+        "faq_7"
+      ]
+    },
+    {
+      "qid": "new_54",
+      "category": "dormitory",
+      "retrieved": [
+        "faq_12",
+        "faq_31",
+        "faq_86",
+        "faq_35",
+        "faq_53"
+      ],
+      "relevant": [
+        "faq_12"
+      ]
+    },
+    {
+      "qid": "new_13",
+      "category": "dates",
+      "retrieved": [
+        "faq_82",
+        "faq_57",
+        "faq_90",
+        "faq_81",
+        "faq_14"
+      ],
+      "relevant": [
+        "faq_90"
+      ]
+    },
+    {
+      "qid": "new_31",
+      "category": "documents",
+      "retrieved": [
+        "faq_22",
+        "faq_62",
+        "faq_49",
+        "faq_19",
+        "faq_21"
+      ],
+      "relevant": [
+        "faq_21"
+      ]
+    },
+    {
+      "qid": "new_60",
+      "category": "exams",
+      "retrieved": [
+        "faq_105",
+        "faq_36",
+        "faq_71",
+        "faq_0",
+        "faq_44"
+      ],
+      "relevant": [
+        "faq_0"
+      ]
+    },
+    {
+      "qid": "new_30",
+      "category": "documents",
+      "retrieved": [
+        "faq_20",
+        "faq_23",
+        "faq_33",
+        "faq_82",
+        "faq_24"
+      ],
+      "relevant": [
+        "faq_24"
+      ]
+    },
+    {
+      "qid": "new_21",
+      "category": "documents",
+      "retrieved": [
+        "faq_49",
+        "faq_48",
+        "faq_4",
+        "vocab_8",
+        "faq_58"
+      ],
+      "relevant": [
+        "faq_49"
+      ]
+    },
+    {
+      "qid": "new_86",
+      "category": "cost",
+      "retrieved": [
+        "olymp_moscow_rights_c116",
+        "vocab_4",
+        "olymp_moscow_rights_c126",
+        "faq_42",
+        "olymp_moscow_rights_c94"
+      ],
+      "relevant": [
+        "vocab_4"
+      ]
+    },
+    {
+      "qid": "kt1_21",
+      "category": "exams",
+      "retrieved": [
+        "faq_21",
+        "faq_44",
+        "faq_98",
+        "faq_49",
+        "faq_95"
+      ],
+      "relevant": [
+        "faq_21"
+      ]
+    },
+    {
+      "qid": "kt1_09",
+      "category": "dates",
+      "retrieved": [
+        "rules_main_c46",
+        "faq_56",
+        "faq_83",
+        "faq_92",
+        "faq_4"
+      ],
+      "relevant": [
+        "rules_main_c46"
+      ]
+    },
+    {
+      "qid": "new_80",
+      "category": "definition",
+      "retrieved": [
+        "faq_28",
+        "faq_7",
+        "faq_97",
+        "faq_77",
+        "faq_87"
+      ],
+      "relevant": [
+        "faq_7"
+      ]
+    },
+    {
+      "qid": "kt1_23",
+      "category": "general",
+      "retrieved": [
+        "faq_58",
+        "faq_54",
+        "faq_33",
+        "vocab_5",
+        "faq_34"
+      ],
+      "relevant": [
+        "faq_34"
+      ]
+    },
+    {
+      "qid": "kt1_22",
+      "category": "exams",
+      "retrieved": [
+        "faq_31",
+        "faq_35",
+        "faq_8",
+        "faq_21",
+        "faq_49"
+      ],
+      "relevant": [
+        "faq_21"
+      ]
+    },
+    {
+      "qid": "new_40",
+      "category": "programs",
+      "retrieved": [
+        "faq_8",
+        "faq_44",
+        "faq_86",
+        "faq_2",
+        "faq_105"
+      ],
+      "relevant": [
+        "faq_8"
+      ]
+    },
+    {
+      "qid": "new_88",
+      "category": "exams",
+      "retrieved": [
+        "olymp_moscow_rights_c53",
+        "faq_46",
+        "faq_47",
+        "olymp_moscow_rights_c89",
+        "faq_41"
+      ],
+      "relevant": [
+        "faq_46"
+      ]
+    },
+    {
+      "qid": "kt1_08",
+      "category": "documents",
+      "retrieved": [
+        "faq_20",
+        "faq_23",
+        "faq_28",
+        "faq_37",
+        "faq_92"
+      ],
+      "relevant": [
+        "faq_20",
+        "faq_23"
+      ]
+    },
+    {
+      "qid": "kt1_26",
+      "category": "documents",
+      "retrieved": [
+        "faq_71",
+        "faq_64",
+        "faq_77",
+        "faq_74",
+        "faq_29"
+      ],
+      "relevant": [
+        "faq_74"
+      ]
+    },
+    {
+      "qid": "kt1_25",
+      "category": "definition",
+      "retrieved": [
+        "vocab_0",
+        "faq_48",
+        "faq_34",
+        "faq_3",
+        "faq_68"
+      ],
+      "relevant": [
+        "vocab_0"
+      ]
+    },
+    {
+      "qid": "new_71",
+      "category": "definition",
+      "retrieved": [
+        "vocab_6",
+        "faq_80",
+        "faq_101",
+        "faq_20",
+        "faq_66"
+      ],
+      "relevant": [
+        "vocab_6"
+      ]
+    },
+    {
+      "qid": "new_87",
+      "category": "programs",
+      "retrieved": [
+        "faq_101",
+        "faq_100",
+        "faq_47",
+        "faq_96",
+        "faq_46"
+      ],
+      "relevant": [
+        "faq_101"
+      ]
+    },
+    {
+      "qid": "new_50",
+      "category": "cost",
+      "retrieved": [
+        "faq_64",
+        "faq_62",
+        "faq_89",
+        "faq_33",
+        "faq_22"
+      ],
+      "relevant": [
+        "faq_64",
+        "faq_62",
+        "faq_89",
+        "faq_22"
+      ]
+    },
+    {
+      "qid": "new_76",
+      "category": "definition",
+      "retrieved": [
+        "faq_68",
+        "faq_28",
+        "faq_72",
+        "faq_84",
+        "faq_4"
+      ],
+      "relevant": [
+        "faq_4"
+      ]
+    },
+    {
+      "qid": "new_05",
+      "category": "dates",
+      "retrieved": [
+        "faq_65",
+        "rules_main_c48",
+        "faq_76",
+        "faq_37",
+        "vocab_1"
+      ],
+      "relevant": [
+        "faq_65"
+      ]
+    },
+    {
+      "qid": "new_84",
+      "category": "general",
+      "retrieved": [
+        "vocab_12",
+        "faq_55",
+        "faq_49",
+        "faq_58",
+        "faq_54"
+      ],
+      "relevant": [
+        "faq_58"
+      ]
+    }
+  ]
+}
