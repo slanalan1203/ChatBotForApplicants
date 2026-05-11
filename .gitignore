@@ -15,3 +15,5 @@ cloud/MIGRATION.md
 *.log
 /tmp/
 .claude/
+
+docs/report/latex/
