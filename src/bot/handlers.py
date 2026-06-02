@@ -1,3 +1,5 @@
+import asyncio
+
 from aiogram import Router, F
 from aiogram.filters import Command
 from aiogram.types import Message
@@ -21,7 +23,7 @@ async def help_(msg: Message):
 
 @router.message(F.text)
 async def on_text(msg: Message):
-    result = answer(msg.text)
+    result = await asyncio.to_thread(answer, msg.text)
     text = result["answer"]
     seen = set()
     unique = []
@@ -33,7 +35,7 @@ async def on_text(msg: Message):
         unique.append(s)
         if len(unique) == 3:
             break
-    if unique:
+    if unique and "в моих источниках" not in text.lower():
         srcs = "\n".join(f"• {s['title']}: {s['url']}" for s in unique)
         text = f"{text}\n\nИсточники:\n{srcs}"
     await msg.answer(text)

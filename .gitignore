@@ -6,9 +6,9 @@ data/chroma/
 data/raw/pdf/
 data/processed/
 .DS_Store
+.vscode/
 src/*.egg-info/
 
-# рабочие markdown-черновики (ушли в docs/report/latex/)
 docs/experiments/
 docs/report/continuation.md
 cloud/MIGRATION.md

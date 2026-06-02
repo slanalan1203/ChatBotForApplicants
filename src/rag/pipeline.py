@@ -6,7 +6,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from src.rag.retriever import retrieve
 from src.rag.generator import generate
 
-def answer(query: str, k: int = 5, temperature: float = 0.3) -> dict:
+def answer(query: str, k: int = 5, temperature: float = 0) -> dict:
     chunks = retrieve(query, k=k)
     text = generate(query, chunks, temperature=temperature)
     sources = [

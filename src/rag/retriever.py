@@ -49,8 +49,8 @@ def dense_retrieve(query: str, k: int = 5) -> list[dict]:
     coll = get_collection()
     res = coll.query(query_embeddings=embed([query], is_query=True), n_results=k)
     return [
-        {"id": id_, "text": doc, "metadata": meta}
-        for id_, doc, meta in zip(res["ids"][0], res["documents"][0], res["metadatas"][0])
+        {"id": id_, "text": doc, "metadata": meta, "distance": dist}
+        for id_, doc, meta, dist in zip(res["ids"][0], res["documents"][0], res["metadatas"][0], res["distances"][0])
     ]
 
 def bm25_retrieve(query: str, k: int = 5) -> list[dict]:
@@ -74,7 +74,7 @@ def hybrid_retrieve(query: str, k: int = 5) -> list[dict]:
 
 def rewrite_query(query: str) -> str:
     import ollama
-    model = os.environ.get("OLLAMA_MODEL", "qwen2.5:7b-instruct")
+    model = os.environ.get("OLLAMA_MODEL", "mistral:latest")
     prompt = (
         f"Перепиши краткий вопрос абитуриента в более развёрнутую формулировку, "
         f"добавив 1-2 ключевых синонима. Только переписанный вопрос, без комментариев.\n\n"
