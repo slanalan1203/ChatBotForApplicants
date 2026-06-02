@@ -1,0 +1,1214 @@
+{
+  "summary": {
+    "hit@1": 0.6790123456790124,
+    "hit@3": 0.9012345679012346,
+    "hit@5": 0.9876543209876543,
+    "hit@10": 0.9876543209876543,
+    "recall@1": 0.44320987654320987,
+    "recall@3": 0.8121399176954732,
+    "recall@5": 0.9876543209876543,
+    "recall@10": 0.9876543209876543,
+    "mrr": 0.7954732510288066,
+    "n_scored": 81,
+    "n_skipped_no_relevant": 4,
+    "label": "exp3_intfloat_multilingual-e5-base"
+  },
+  "per_q": [
+    {
+      "qid": "kt1_07",
+      "category": "general",
+      "retrieved": [
+        "Целевое обучение в НИУ ВШЭ 2026: поступление на бюджет с гарантией трудоустройства_c1",
+        "rules_main_c52",
+        "rules_main_c27",
+        "Информирование о приеме – 2026_c2",
+        "faq_75"
+      ],
+      "relevant": [
+        "Целевое обучение в НИУ ВШЭ 2026: поступление на бюджет с гарантией трудоустройства_c1",
+        "rules_main_c27"
+      ]
+    },
+    {
+      "qid": "new_43",
+      "category": "programs",
+      "retrieved": [
+        "Информирование о приеме – 2026_c1",
+        "faq_102",
+        "competitions_results_regulation_c0",
+        "Стоимость обучения – 2026_c2",
+        "Образовательный кредит с государственной поддержкой_c2"
+      ],
+      "relevant": [
+        "faq_102",
+        "competitions_results_regulation_c0"
+      ]
+    },
+    {
+      "qid": "new_63",
+      "category": "exams",
+      "retrieved": [
+        "vocab_1",
+        "faq_31",
+        "faq_35",
+        "rules_main_c36",
+        "faq_98"
+      ],
+      "relevant": [
+        "faq_31"
+      ]
+    },
+    {
+      "qid": "new_37",
+      "category": "programs",
+      "retrieved": [
+        "faq_3",
+        "rules_main_c34",
+        "faq_5",
+        "faq_6",
+        "Программы вступительных испытаний для поступающих в бакалавриат/специалитет НИУ ВШЭ в 2026 году_c0"
+      ],
+      "relevant": [
+        "faq_3"
+      ]
+    },
+    {
+      "qid": "kt1_02",
+      "category": "exams",
+      "retrieved": [
+        "faq_35",
+        "faq_31",
+        "faq_6",
+        "vocab_1",
+        "faq_5"
+      ],
+      "relevant": [
+        "faq_35",
+        "faq_6",
+        "vocab_1",
+        "faq_5"
+      ]
+    },
+    {
+      "qid": "new_14",
+      "category": "dates",
+      "retrieved": [
+        "faq_65",
+        "vocab_1",
+        "appeal_regulation_c2",
+        "faq_35",
+        "faq_85"
+      ],
+      "relevant": [
+        "faq_65"
+      ]
+    },
+    {
+      "qid": "new_75",
+      "category": "definition",
+      "retrieved": [
+        "rules_main_c46",
+        "vocab_13",
+        "rules_main_c50",
+        "rules_main_c51",
+        "rules_main_c49"
+      ],
+      "relevant": [
+        "vocab_13",
+        "rules_main_c50",
+        "rules_main_c49"
+      ]
+    },
+    {
+      "qid": "new_51",
+      "category": "cost",
+      "retrieved": [
+        "faq_87",
+        "vocab_9",
+        "faq_38",
+        "faq_41",
+        "faq_86"
+      ],
+      "relevant": [
+        "faq_41",
+        "faq_86"
+      ]
+    },
+    {
+      "qid": "new_48",
+      "category": "scholarship",
+      "retrieved": [
+        "faq_53",
+        "vocab_9",
+        "Критерии предоставления скидок по результатам вступительных испытаний для поступающих в 2026 году_c0",
+        "faq_86",
+        "faq_94"
+      ],
+      "relevant": [
+        "faq_86"
+      ]
+    },
+    {
+      "qid": "kt1_28",
+      "category": "general",
+      "retrieved": [
+        "faq_39",
+        "rules_main_c33",
+        "competitions_results_regulation_c0",
+        "rules_main_c50",
+        "rules_indiv_achievements_moscow_c4"
+      ],
+      "relevant": [
+        "rules_main_c33"
+      ]
+    },
+    {
+      "qid": "kt1_05",
+      "category": "general",
+      "retrieved": [
+        "faq_4",
+        "rules_main_c56",
+        "rules_main_c40",
+        "rules_main_c13",
+        "faq_53"
+      ],
+      "relevant": [
+        "faq_4",
+        "rules_main_c56",
+        "rules_main_c13"
+      ]
+    },
+    {
+      "qid": "kt1_17",
+      "category": "general",
+      "retrieved": [
+        "faq_34",
+        "vocab_4",
+        "faq_58",
+        "faq_54",
+        "rules_indiv_achievements_moscow_c1"
+      ],
+      "relevant": [
+        "faq_34",
+        "vocab_4"
+      ]
+    },
+    {
+      "qid": "new_06",
+      "category": "dates",
+      "retrieved": [
+        "faq_55",
+        "rules_main_c37",
+        "faq_47",
+        "vocab_12",
+        "faq_85"
+      ],
+      "relevant": [
+        "faq_55"
+      ]
+    },
+    {
+      "qid": "new_72",
+      "category": "definition",
+      "retrieved": [
+        "Целевое обучение в НИУ ВШЭ 2026: поступление на бюджет с гарантией трудоустройства_c1",
+        "olymp_moscow_rights_c40",
+        "olymp_moscow_rights_c132",
+        "olymp_moscow_rights_c62",
+        "olymp_moscow_rights_c106"
+      ],
+      "relevant": [
+        "Целевое обучение в НИУ ВШЭ 2026: поступление на бюджет с гарантией трудоустройства_c1"
+      ]
+    },
+    {
+      "qid": "new_20",
+      "category": "documents",
+      "retrieved": [
+        "faq_26",
+        "faq_27",
+        "faq_28",
+        "faq_76",
+        "faq_51"
+      ],
+      "relevant": [
+        "faq_26"
+      ]
+    },
+    {
+      "qid": "new_25",
+      "category": "documents",
+      "retrieved": [
+        "faq_22",
+        "faq_89",
+        "faq_64",
+        "faq_62",
+        "faq_13"
+      ],
+      "relevant": [
+        "faq_22",
+        "faq_89",
+        "faq_62"
+      ]
+    },
+    {
+      "qid": "new_78",
+      "category": "definition",
+      "retrieved": [
+        "rules_main_c50",
+        "olymp_moscow_rights_c106",
+        "rules_main_c49",
+        "rules_indiv_achievements_moscow_c32",
+        "olymp_moscow_rights_c102"
+      ],
+      "relevant": [
+        "rules_main_c50"
+      ]
+    },
+    {
+      "qid": "kt1_18",
+      "category": "out_of_scope",
+      "retrieved": [
+        "faq_25",
+        "faq_22",
+        "rules_main_c6",
+        "faq_31",
+        "faq_83"
+      ],
+      "relevant": [
+        "faq_25"
+      ]
+    },
+    {
+      "qid": "new_65",
+      "category": "exams",
+      "retrieved": [
+        "appeal_regulation_c2",
+        "appeal_regulation_c1",
+        "vocab_1",
+        "faq_98",
+        "appeal_regulation_c4"
+      ],
+      "relevant": [
+        "appeal_regulation_c2",
+        "appeal_regulation_c1"
+      ]
+    },
+    {
+      "qid": "new_89",
+      "category": "exams",
+      "retrieved": [
+        "faq_2",
+        "rules_main_c36",
+        "faq_96",
+        "vocab_1",
+        "faq_5"
+      ],
+      "relevant": [
+        "faq_2"
+      ]
+    },
+    {
+      "qid": "new_11",
+      "category": "dates",
+      "retrieved": [
+        "Информирование о приеме – 2026_c5",
+        "rules_main_c60",
+        "vocab_9",
+        "rules_main_c61",
+        "rules_moscow_c18"
+      ],
+      "relevant": [
+        "Информирование о приеме – 2026_c5",
+        "rules_main_c61"
+      ]
+    },
+    {
+      "qid": "new_58",
+      "category": "dormitory",
+      "retrieved": [
+        "faq_12",
+        "faq_94",
+        "faq_11",
+        "vocab_8",
+        "faq_31"
+      ],
+      "relevant": [
+        "faq_11"
+      ]
+    },
+    {
+      "qid": "new_35",
+      "category": "programs",
+      "retrieved": [
+        "faq_3",
+        "vocab_10",
+        "rules_main_c32",
+        "rules_main_c34",
+        "rules_indiv_achievements_moscow_c0"
+      ],
+      "relevant": [
+        "faq_3",
+        "vocab_10",
+        "rules_indiv_achievements_moscow_c0"
+      ]
+    },
+    {
+      "qid": "kt1_13",
+      "category": "documents",
+      "retrieved": [
+        "faq_19",
+        "faq_78",
+        "faq_14",
+        "faq_48",
+        "faq_21"
+      ],
+      "relevant": [
+        "faq_14"
+      ]
+    },
+    {
+      "qid": "new_66",
+      "category": "exams",
+      "retrieved": [
+        "olymp_rules_c0",
+        "competitions_results_regulation_c0",
+        "rules_main_c11",
+        "rules_main_c12",
+        "olymp_rules_c3"
+      ],
+      "relevant": [
+        "olymp_rules_c0",
+        "competitions_results_regulation_c0",
+        "rules_main_c12"
+      ]
+    },
+    {
+      "qid": "kt1_06",
+      "category": "definition",
+      "retrieved": [
+        "rules_main_c45",
+        "rules_main_c46",
+        "rules_main_c16",
+        "rules_main_c57",
+        "rules_main_c44"
+      ],
+      "relevant": [
+        "rules_main_c45",
+        "rules_main_c46",
+        "rules_main_c16"
+      ]
+    },
+    {
+      "qid": "new_01",
+      "category": "dates",
+      "retrieved": [
+        "faq_13",
+        "rules_main_c19",
+        "rules_moscow_c18",
+        "rules_main_c1",
+        "График поступления – 2026_c0"
+      ],
+      "relevant": [
+        "faq_13"
+      ]
+    },
+    {
+      "qid": "kt1_24",
+      "category": "general",
+      "retrieved": [
+        "vocab_0",
+        "faq_48",
+        "faq_52",
+        "olymp_moscow_rights_c64",
+        "olymp_moscow_rights_c59"
+      ],
+      "relevant": [
+        "vocab_0",
+        "faq_52"
+      ]
+    },
+    {
+      "qid": "new_62",
+      "category": "exams",
+      "retrieved": [
+        "faq_35",
+        "faq_31",
+        "vocab_1",
+        "faq_6",
+        "rules_main_c18"
+      ],
+      "relevant": [
+        "faq_35",
+        "faq_31",
+        "vocab_1",
+        "faq_6"
+      ]
+    },
+    {
+      "qid": "new_45",
+      "category": "cost",
+      "retrieved": [
+        "Стоимость обучения – 2026_c0",
+        "rules_moscow_c18",
+        "vocab_9",
+        "faq_53",
+        "Критерии предоставления скидок по результатам вступительных испытаний для поступающих в 2026 году_c0"
+      ],
+      "relevant": [
+        "Стоимость обучения – 2026_c0"
+      ]
+    },
+    {
+      "qid": "new_36",
+      "category": "programs",
+      "retrieved": [
+        "faq_3",
+        "olymp_moscow_rights_c146",
+        "olymp_moscow_rights_c149",
+        "faq_6",
+        "Образовательный кредит с государственной поддержкой_c2"
+      ],
+      "relevant": [
+        "olymp_moscow_rights_c146",
+        "olymp_moscow_rights_c149"
+      ]
+    },
+    {
+      "qid": "new_09",
+      "category": "dates",
+      "retrieved": [
+        "faq_13",
+        "faq_16",
+        "rules_main_c21",
+        "appeal_regulation_c2",
+        "rules_main_c23"
+      ],
+      "relevant": [
+        "faq_13"
+      ]
+    },
+    {
+      "qid": "new_32",
+      "category": "programs",
+      "retrieved": [
+        "olymp_moscow_rights_c69",
+        "olymp_moscow_rights_c37",
+        "olymp_moscow_rights_c27",
+        "olymp_moscow_rights_c42",
+        "olymp_moscow_rights_c17"
+      ],
+      "relevant": [
+        "olymp_moscow_rights_c69",
+        "olymp_moscow_rights_c37",
+        "olymp_moscow_rights_c42"
+      ]
+    },
+    {
+      "qid": "new_61",
+      "category": "exams",
+      "retrieved": [
+        "faq_2",
+        "faq_46",
+        "faq_95",
+        "faq_100",
+        "vocab_4"
+      ],
+      "relevant": [
+        "faq_2"
+      ]
+    },
+    {
+      "qid": "new_68",
+      "category": "definition",
+      "retrieved": [
+        "vocab_4",
+        "Образовательный кредит с государственной поддержкой_c2",
+        "olymp_moscow_rights_c6",
+        "Стоимость обучения – 2026_c4",
+        "olymp_moscow_rights_c141"
+      ],
+      "relevant": [
+        "vocab_4"
+      ]
+    },
+    {
+      "qid": "new_42",
+      "category": "programs",
+      "retrieved": [
+        "olymp_moscow_rights_c102",
+        "Целевое обучение в НИУ ВШЭ 2026: поступление на бюджет с гарантией трудоустройства_c0",
+        "Образовательный кредит с государственной поддержкой_c2",
+        "olymp_moscow_rights_c136",
+        "paid_contract_rules_c48"
+      ],
+      "relevant": [
+        "olymp_moscow_rights_c102"
+      ]
+    },
+    {
+      "qid": "new_85",
+      "category": "documents",
+      "retrieved": [
+        "faq_4",
+        "rules_main_c5",
+        "rules_indiv_achievements_moscow_c4",
+        "rules_main_c23",
+        "rules_ovz_c4"
+      ],
+      "relevant": [
+        "faq_4"
+      ]
+    },
+    {
+      "qid": "new_83",
+      "category": "general",
+      "retrieved": [
+        "faq_46",
+        "faq_41",
+        "faq_45",
+        "faq_38",
+        "rules_main_c11"
+      ],
+      "relevant": [
+        "faq_46",
+        "faq_41",
+        "faq_45"
+      ]
+    },
+    {
+      "qid": "new_24",
+      "category": "documents",
+      "retrieved": [
+        "faq_19",
+        "faq_78",
+        "faq_14",
+        "faq_71",
+        "appeal_regulation_c1"
+      ],
+      "relevant": [
+        "faq_14"
+      ]
+    },
+    {
+      "qid": "new_73",
+      "category": "definition",
+      "retrieved": [
+        "Образовательный кредит с государственной поддержкой_c2",
+        "Стоимость обучения – 2026_c2",
+        "olymp_moscow_rights_c151",
+        "olymp_moscow_rights_c148",
+        "Стоимость обучения – 2026_c4"
+      ],
+      "relevant": [
+        "vocab_3"
+      ]
+    },
+    {
+      "qid": "kt1_27",
+      "category": "out_of_scope",
+      "retrieved": [
+        "faq_6",
+        "faq_5",
+        "faq_48",
+        "faq_25",
+        "vocab_14"
+      ],
+      "relevant": [
+        "faq_6",
+        "faq_5"
+      ]
+    },
+    {
+      "qid": "new_46",
+      "category": "cost",
+      "retrieved": [
+        "Критерии предоставления скидок по результатам вступительных испытаний для поступающих в 2026 году_c0",
+        "faq_86",
+        "vocab_9",
+        "faq_53",
+        "paid_contract_rules_c19"
+      ],
+      "relevant": [
+        "Критерии предоставления скидок по результатам вступительных испытаний для поступающих в 2026 году_c0"
+      ]
+    },
+    {
+      "qid": "kt1_16",
+      "category": "dates",
+      "retrieved": [
+        "faq_65",
+        "rules_main_c38",
+        "rules_main_c67",
+        "Программы вступительных испытаний для поступающих в бакалавриат/специалитет НИУ ВШЭ в 2026 году_c0",
+        "rules_ovz_c1"
+      ],
+      "relevant": [
+        "faq_65",
+        "Программы вступительных испытаний для поступающих в бакалавриат/специалитет НИУ ВШЭ в 2026 году_c0"
+      ]
+    },
+    {
+      "qid": "new_27",
+      "category": "documents",
+      "retrieved": [
+        "Программы вступительных испытаний для поступающих в бакалавриат/специалитет НИУ ВШЭ в 2026 году_c3",
+        "faq_78",
+        "faq_14",
+        "rules_main_c63",
+        "paid_contract_rules_c23"
+      ],
+      "relevant": [
+        "faq_14"
+      ]
+    },
+    {
+      "qid": "kt1_30",
+      "category": "exams",
+      "retrieved": [
+        "vocab_1",
+        "faq_98",
+        "faq_35",
+        "faq_3",
+        "faq_54"
+      ],
+      "relevant": [
+        "vocab_1",
+        "faq_98",
+        "faq_35"
+      ]
+    },
+    {
+      "qid": "new_55",
+      "category": "dormitory",
+      "retrieved": [
+        "faq_94",
+        "faq_12",
+        "Информирование о приеме – 2026_c6",
+        "faq_11",
+        "vocab_9"
+      ],
+      "relevant": [
+        "faq_12",
+        "faq_11"
+      ]
+    },
+    {
+      "qid": "new_15",
+      "category": "dates",
+      "retrieved": [
+        "appeal_regulation_c5",
+        "appeal_regulation_c1",
+        "appeal_regulation_c4",
+        "appeal_regulation_c0",
+        "appeal_regulation_c2"
+      ],
+      "relevant": [
+        "appeal_regulation_c2"
+      ]
+    },
+    {
+      "qid": "kt1_14",
+      "category": "general",
+      "retrieved": [
+        "faq_48",
+        "faq_50",
+        "faq_52",
+        "rules_main_c42",
+        "olymp_moscow_rights_c59"
+      ],
+      "relevant": [
+        "faq_48",
+        "faq_52"
+      ]
+    },
+    {
+      "qid": "kt1_03",
+      "category": "general",
+      "retrieved": [
+        "faq_24",
+        "faq_25",
+        "График поступления – 2026_c0",
+        "faq_0",
+        "faq_48"
+      ],
+      "relevant": [
+        "faq_24"
+      ]
+    },
+    {
+      "qid": "new_54",
+      "category": "dormitory",
+      "retrieved": [
+        "faq_12",
+        "faq_11",
+        "faq_94",
+        "Информирование о приеме – 2026_c6",
+        "rules_main_c18"
+      ],
+      "relevant": [
+        "faq_12",
+        "faq_11"
+      ]
+    },
+    {
+      "qid": "new_29",
+      "category": "documents",
+      "retrieved": [
+        "faq_18",
+        "rules_main_c2",
+        "rules_main_c66",
+        "faq_31",
+        "rules_main_c31"
+      ],
+      "relevant": [
+        "faq_18"
+      ]
+    },
+    {
+      "qid": "new_13",
+      "category": "dates",
+      "retrieved": [
+        "faq_13",
+        "faq_65",
+        "faq_29",
+        "appeal_regulation_c2",
+        "Информирование о приеме – 2026_c4"
+      ],
+      "relevant": [
+        "faq_29"
+      ]
+    },
+    {
+      "qid": "new_04",
+      "category": "dates",
+      "retrieved": [
+        "appeal_regulation_c2",
+        "faq_13",
+        "rules_main_c58",
+        "faq_16",
+        "rules_main_c27"
+      ],
+      "relevant": [
+        "rules_main_c58"
+      ]
+    },
+    {
+      "qid": "new_31",
+      "category": "documents",
+      "retrieved": [
+        "faq_14",
+        "faq_19",
+        "faq_21",
+        "faq_27",
+        "faq_18"
+      ],
+      "relevant": [
+        "faq_14"
+      ]
+    },
+    {
+      "qid": "new_60",
+      "category": "exams",
+      "retrieved": [
+        "Программы вступительных испытаний для поступающих в бакалавриат/специалитет НИУ ВШЭ в 2026 году_c0",
+        "vocab_2",
+        "rules_main_c34",
+        "faq_3",
+        "rules_main_c48"
+      ],
+      "relevant": [
+        "vocab_2"
+      ]
+    },
+    {
+      "qid": "kt1_12",
+      "category": "dates",
+      "retrieved": [
+        "faq_90",
+        "Информирование о приеме – 2026_c4",
+        "rules_main_c54",
+        "rules_main_c58",
+        "Информирование о приеме – 2026_c3"
+      ],
+      "relevant": [
+        "rules_main_c58"
+      ]
+    },
+    {
+      "qid": "new_30",
+      "category": "documents",
+      "retrieved": [
+        "faq_26",
+        "faq_20",
+        "appeal_regulation_c3",
+        "Образовательный кредит с государственной поддержкой_c2",
+        "rules_main_c27"
+      ],
+      "relevant": [
+        "faq_26",
+        "faq_20"
+      ]
+    },
+    {
+      "qid": "new_21",
+      "category": "documents",
+      "retrieved": [
+        "faq_49",
+        "faq_46",
+        "faq_48",
+        "faq_41",
+        "rules_main_c24"
+      ],
+      "relevant": [
+        "faq_49",
+        "faq_46",
+        "rules_main_c24"
+      ]
+    },
+    {
+      "qid": "new_86",
+      "category": "cost",
+      "retrieved": [
+        "faq_86",
+        "vocab_14",
+        "faq_57",
+        "Критерии предоставления скидок по результатам вступительных испытаний для поступающих в 2026 году_c0",
+        "rules_main_c43"
+      ],
+      "relevant": [
+        "faq_86",
+        "vocab_14",
+        "Критерии предоставления скидок по результатам вступительных испытаний для поступающих в 2026 году_c0"
+      ]
+    },
+    {
+      "qid": "kt1_21",
+      "category": "exams",
+      "retrieved": [
+        "faq_46",
+        "faq_49",
+        "faq_38",
+        "faq_44",
+        "faq_45"
+      ],
+      "relevant": [
+        "faq_46"
+      ]
+    },
+    {
+      "qid": "kt1_09",
+      "category": "dates",
+      "retrieved": [
+        "rules_main_c41",
+        "rules_main_c46",
+        "rules_main_c33",
+        "rules_main_c50",
+        "rules_main_c51"
+      ],
+      "relevant": [
+        "rules_main_c41"
+      ]
+    },
+    {
+      "qid": "new_80",
+      "category": "definition",
+      "retrieved": [
+        "olymp_moscow_rights_c0",
+        "faq_7",
+        "rules_main_c11",
+        "Стоимость обучения – 2026_c4",
+        "faq_101"
+      ],
+      "relevant": [
+        "olymp_moscow_rights_c0",
+        "rules_main_c11"
+      ]
+    },
+    {
+      "qid": "kt1_23",
+      "category": "general",
+      "retrieved": [
+        "faq_34",
+        "vocab_4",
+        "faq_58",
+        "faq_54",
+        "rules_indiv_achievements_moscow_c1"
+      ],
+      "relevant": [
+        "vocab_4"
+      ]
+    },
+    {
+      "qid": "kt1_22",
+      "category": "exams",
+      "retrieved": [
+        "faq_21",
+        "faq_23",
+        "faq_38",
+        "faq_49",
+        "faq_86"
+      ],
+      "relevant": [
+        "faq_23"
+      ]
+    },
+    {
+      "qid": "new_64",
+      "category": "exams",
+      "retrieved": [
+        "faq_73",
+        "appeal_regulation_c2",
+        "faq_74",
+        "Программы вступительных испытаний для поступающих в бакалавриат/специалитет НИУ ВШЭ в 2026 году_c2",
+        "faq_65"
+      ],
+      "relevant": [
+        "faq_65"
+      ]
+    },
+    {
+      "qid": "new_40",
+      "category": "programs",
+      "retrieved": [
+        "rules_main_c38",
+        "rules_main_c67",
+        "faq_8",
+        "vocab_10",
+        "График поступления – 2026_c0"
+      ],
+      "relevant": [
+        "vocab_10"
+      ]
+    },
+    {
+      "qid": "new_39",
+      "category": "programs",
+      "retrieved": [
+        "Состав вступительных испытаний и минимальное количество баллов по результатам ЕГЭ для поступления в 2026 году_c5",
+        "График поступления – 2026_c0",
+        "olymp_rules_c3",
+        "Стоимость обучения – 2026_c2",
+        "vocab_10"
+      ],
+      "relevant": [
+        "vocab_10"
+      ]
+    },
+    {
+      "qid": "new_88",
+      "category": "exams",
+      "retrieved": [
+        "vocab_0",
+        "olymp_moscow_rights_c37",
+        "olymp_moscow_rights_c134",
+        "olymp_moscow_rights_c20",
+        "olymp_moscow_rights_c131"
+      ],
+      "relevant": [
+        "vocab_0",
+        "olymp_moscow_rights_c37",
+        "olymp_moscow_rights_c134",
+        "olymp_moscow_rights_c20",
+        "olymp_moscow_rights_c131"
+      ]
+    },
+    {
+      "qid": "kt1_08",
+      "category": "documents",
+      "retrieved": [
+        "faq_13",
+        "faq_51",
+        "faq_14",
+        "faq_82",
+        "faq_16"
+      ],
+      "relevant": [
+        "faq_13",
+        "faq_51",
+        "faq_16"
+      ]
+    },
+    {
+      "qid": "kt1_26",
+      "category": "documents",
+      "retrieved": [
+        "rules_main_c32",
+        "faq_22",
+        "faq_49",
+        "rules_main_c54",
+        "rules_main_c57"
+      ],
+      "relevant": [
+        "faq_22"
+      ]
+    },
+    {
+      "qid": "kt1_25",
+      "category": "definition",
+      "retrieved": [
+        "vocab_0",
+        "olymp_moscow_rights_c59",
+        "olymp_moscow_rights_c61",
+        "olymp_moscow_rights_c64",
+        "olymp_moscow_rights_c5"
+      ],
+      "relevant": [
+        "vocab_0",
+        "olymp_moscow_rights_c59",
+        "olymp_moscow_rights_c61",
+        "olymp_moscow_rights_c64",
+        "olymp_moscow_rights_c5"
+      ]
+    },
+    {
+      "qid": "new_71",
+      "category": "definition",
+      "retrieved": [
+        "vocab_6",
+        "olymp_moscow_rights_c130",
+        "paid_contract_rules_c6",
+        "Образовательный кредит с государственной поддержкой_c2",
+        "Стоимость обучения – 2026_c3"
+      ],
+      "relevant": [
+        "vocab_6"
+      ]
+    },
+    {
+      "qid": "new_49",
+      "category": "scholarship",
+      "retrieved": [
+        "faq_53",
+        "olymp_moscow_rights_c41",
+        "faq_6",
+        "olymp_moscow_rights_c15",
+        "olymp_moscow_rights_c137"
+      ],
+      "relevant": [
+        "faq_53"
+      ]
+    },
+    {
+      "qid": "new_87",
+      "category": "programs",
+      "retrieved": [
+        "faq_38",
+        "faq_47",
+        "faq_46",
+        "Стоимость обучения – 2026_c2",
+        "faq_98"
+      ],
+      "relevant": [
+        "faq_38",
+        "Стоимость обучения – 2026_c2"
+      ]
+    },
+    {
+      "qid": "new_44",
+      "category": "programs",
+      "retrieved": [
+        "vocab_9",
+        "Программы вступительных испытаний для поступающих в бакалавриат/специалитет НИУ ВШЭ в 2026 году_c0",
+        "График поступления – 2026_c0",
+        "Критерии предоставления скидок по результатам вступительных испытаний для поступающих в 2026 году_c0",
+        "faq_53"
+      ],
+      "relevant": [
+        "Программы вступительных испытаний для поступающих в бакалавриат/специалитет НИУ ВШЭ в 2026 году_c0"
+      ]
+    },
+    {
+      "qid": "new_50",
+      "category": "cost",
+      "retrieved": [
+        "faq_64",
+        "faq_89",
+        "faq_62",
+        "faq_22",
+        "faq_87"
+      ],
+      "relevant": [
+        "faq_64",
+        "faq_89",
+        "faq_62"
+      ]
+    },
+    {
+      "qid": "new_16",
+      "category": "dates",
+      "retrieved": [
+        "rules_moscow_c18",
+        "vocab_9",
+        "rules_main_c60",
+        "Информирование о приеме – 2026_c5",
+        "faq_91"
+      ],
+      "relevant": [
+        "rules_moscow_c18",
+        "rules_main_c60",
+        "faq_91"
+      ]
+    },
+    {
+      "qid": "new_76",
+      "category": "definition",
+      "retrieved": [
+        "rules_main_c5",
+        "rules_main_c14",
+        "rules_main_c29",
+        "rules_main_c15",
+        "Информирование о приеме – 2026_c2"
+      ],
+      "relevant": [
+        "rules_main_c29"
+      ]
+    },
+    {
+      "qid": "new_05",
+      "category": "dates",
+      "retrieved": [
+        "faq_65",
+        "Программы вступительных испытаний для поступающих в бакалавриат/специалитет НИУ ВШЭ в 2026 году_c0",
+        "rules_main_c38",
+        "rules_main_c67",
+        "rules_main_c39"
+      ],
+      "relevant": [
+        "faq_65",
+        "Программы вступительных испытаний для поступающих в бакалавриат/специалитет НИУ ВШЭ в 2026 году_c0",
+        "rules_main_c38"
+      ]
+    },
+    {
+      "qid": "new_84",
+      "category": "general",
+      "retrieved": [
+        "vocab_4",
+        "faq_34",
+        "olymp_moscow_rights_c77",
+        "olymp_moscow_rights_c115",
+        "olymp_moscow_rights_c78"
+      ],
+      "relevant": [
+        "vocab_4"
+      ]
+    },
+    {
+      "qid": "kt1_20",
+      "category": "exams",
+      "retrieved": [
+        "faq_65",
+        "faq_108",
+        "faq_67",
+        "rules_main_c70",
+        "appeal_regulation_c2"
+      ],
+      "relevant": [
+        "faq_65",
+        "faq_108",
+        "appeal_regulation_c2"
+      ]
+    }
+  ]
+}
